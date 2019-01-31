@@ -1,0 +1,10 @@
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\Abhishek\Documents\Visual Studio 2013\Projects\WebApisample\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
