@@ -36,7 +36,7 @@ namespace EmployeeDataAccess
         public byte[] Photo { get; set; }
         public string Notes { get; set; }
         public Nullable<int> ReportsTo { get; set; }
-        public string PhotoPath { get; set; }
+        	public string Abhishek{ get; set; }
     
         public virtual ICollection<Employee> Employees1 { get; set; }
         public virtual Employee Employee1 { get; set; }
