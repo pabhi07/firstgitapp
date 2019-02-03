@@ -1,1 +1,3 @@
 bug aficex
+Notes added in branch r2 
+to reflect in UI consecutively
